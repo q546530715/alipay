@@ -45,9 +45,4 @@ notify.php   异步回调通知
 2.文件开头的配置信息必须完善
 
 
-# 若对您有帮助，可以赞助并支持下作者哦，谢谢！
 
-<p align="center">
-    <img src="https://www.dedemao.com/uploads/zan.jpg" width="500px">
-    <p align="center">联系邮箱：884358@qq.com</p>
-</p>
